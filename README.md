@@ -61,10 +61,8 @@ The project can be enhanced with additional functionality to make the applicatio
 - [ ] Replay Option — Allow users to play the guessing game multiple times.
 # Contributors
 This project was developed collaboratively as part of the Programming 1 course project.
-1. Sahar Hawsawi [linkedin](www.linkedin.com/in/sahar-hawsawi-4133aa361)
-2. Sadeem Al-Raiqi 
-3. Ghala Al-Qurashi [linkedin](https://www.linkedin.com/in/ghala-alqurashi-439ba3363)
-   
-(Link to Sadeem Al-Raiqi LinkedIn account will be linked once I have it)
+1. Sahar Hawsawi [linkedin profile](https://www.linkedin.com/in/sahar-hawsawi-4133aa361)
+2. Sadeem Al-Raiqi *linked profile will be updated once i have it*
+3. Ghala Al-Qurashi [linkedin profile](https://www.linkedin.com/in/ghala-alqurashi-439ba3363)
 # ⭐ Thank you for visiting this repository!
 hope this project demonstrates how fundamental Java programming concepts can be combined to create simple, interactive applications.
